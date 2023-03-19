@@ -1,2 +1,12 @@
-Link para download do Git: https://git-scm.com/downloads
-O Git bash é um terminal extendido para otimizar o uso do Git.
+Git bash - Configuração
+
+1º Acessar Git bash
+2º ssh-keygen -t ed25519 -C (email)
+3º Senha
+4º Ir para dentro da pasta .ssh
+5º cat id_ed25519.pub
+6º Acessar o GitHub (Profile)
+7º SSH Keys
+8º No Git Bash usar comando eval $(ssh-agent -s)
+9º ssh-add id_ed25519
+10º Senha

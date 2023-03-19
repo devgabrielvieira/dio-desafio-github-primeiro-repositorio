@@ -3,7 +3,7 @@ Repositório criado para o Desafio de Projeto.
 
 ### Olá 👋 DIO, me chamo Gabriel 🧑‍🎓! 
 
-- ⚡ Prentendo usar este repositório para anotações importantes sobre o conteúdo passado neste Bootcamp.
+- ⚡ Pretendo usar este repositório para anotações importantes sobre o conteúdo passado neste Bootcamp.
 
 
 ### Links Úteis

@@ -12,3 +12,26 @@ Git bash - Configuração
 8º No Git Bash usar comando eval $(ssh-agent -s)
 9º ssh-add id_ed25519
 10º Senha
+
+---------------------------------------------------------
+Comandos importantes Windows
+
+cd
+cd..
+cls   - limpa tela
+dir   - exibe conteúdo do diretorio
+mkdir - cria nova pasta ou novo diretorio
+echo  - exibe mensagem
+del   - apaga somente o conteúdo da pasta
+rmdir - rmkdir (pasta) /S /Q deleta a pasta ou diretorio
+
+---------------------------------------------------------
+Comandos importantes Linux
+
+cd
+cd ..
+ls     - exibe conteúdo do diretorio
+mkdir  - cria nova pasta ou novo diretorio
+rm -rf -  deleta a pasta ou diretorio
+---------------------------------------------------------
+
